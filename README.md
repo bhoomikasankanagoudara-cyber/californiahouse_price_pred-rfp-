@@ -1,3 +1,7 @@
+<img width="969" height="532" alt="WhatsApp Image 2026-09-24 at 5 08 02 PM" src="https://github.com/user-attachments/assets/c79be7e4-00e4-4b57-adf6-6e61f8422c99" />
+<img width="969" height="532" alt="WhatsApp Image 2026-09-24 at 5 08 02 PM" src="https://github.com/user-attachments/assets/ccb0cecf-9827-4ea6-a5bc-a7bcfa2b7c40" />
+<img width="969" height="532" alt="WhatsApp Image 2026-09-24 at 5 08 02 PM" src="https://github.com/user-attachments/assets/5ed01244-ac25-41d1-8cee-e01fc2d55455" />
+<img width="969" height="532" alt="WhatsApp Image 2026-09-24 at 5 08 02 PM" src="https://github.com/user-attachments/assets/c1d916cd-47ae-44db-9133-7ea264a209ba" />
 # 🏡 California Housing Value Predictor
 
 An end-to-end Machine Learning web application and regression pipeline designed to predict median district housing values across California based on demographic, structural, and geographical indicators.
