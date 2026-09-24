@@ -29,4 +29,4 @@ A baseline **Multiple Linear Regression** model was evaluated against an ensembl
 
 ---
 
-## 🏗 Architecture & Machine Learning Pipelin
+## 🏗 Architecture & Machine Learning Pipelins
